@@ -1,5 +1,6 @@
 # Rails and PostgreSQL on Docker
 
+
 ## Usage
 
 * To start new project => `make new`
@@ -16,8 +17,12 @@
 * `docker-compose run --rm web rails db:create` => `make dbcreate`
 * `docker-compose run --rm web rails db:migrate` => `make dbmigrate`
 
+<br>
+
 ## Reference
 https://docs.docker.com/compose/rails/
+
+<br>
 
 ## License
 Code Copyright (c) 2018 Yusuke ARAI
