@@ -1,4 +1,4 @@
-railsnew:
+new:
 	echo "source 'https://rubygems.org'" > Gemfile
 	echo "gem 'rails', '5.2.0'" >> Gemfile
 	touch Gemfile.lock
