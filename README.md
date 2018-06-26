@@ -26,5 +26,7 @@ https://docs.docker.com/compose/rails/
 
 ## License
 Code Copyright (c) 2018 Yusuke ARAI
+
 Code released under the MIT license
+
 https://opensource.org/licenses/mit-license.php
